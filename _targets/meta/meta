@@ -1,0 +1,23 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+get_data_path|function|9adcf261a2d8d187|||||||||||||||
+get_data_raw_path|function|8a788151716379c4|||||||||||||||
+get_output_path|function|0faf7ff2cf8f0baf|||||||||||||||
+gg|stem|be684d1491f9370b|4d9b20bcbf72180b|8c03b44a7f9f1bb3|1795449344||t19511.333937958s|f8fd6a854618d25d|68584|rds|local|vector|||0.03||
+gg_spec_lm|function|e5f8c1dc668c5b6f|||||||||||||||
+gg_ver|stem|666a532f6efaad27|3c9384f3fcfed091|f90bb7ec9df3404c|-646471885|C:\Users\corra\Documents\GitHub\cl\ws-reproj\private-space\output/gg_1.2.png|t19511.334008222s|581ab3375efcb2a5|363625|file|local|vector|||5.95|1m22mRemoved 2 rows containing nonfinite values stat_smooth.. 1m22mRemoved 2 rows containing nonfinite values stat_smooth.. 1m22mRemoved 11 rows containing missing values geom_point.|
+mod_depth|stem|fba9b03bdfa9fbc1|5d08eb812287c530|b40430b7fae47c88|1281991935||t19511.3339369104s|500ede8678beea88|11382|rds|local|vector|||0.01||
+mod_depth_spec|stem|d1a83a954044381c|74a9c871726bfbaf|591f6367d88ed157|-566408214||t19511.3339382785s|f5557e92d97c04fe|12878|rds|local|vector|||0||
+mod_depth_spec_ver|stem|c54c047cff65c2da|17a94ecf32fc164f|e9fc71aac7552ea1|103418670|C:\Users\corra\Documents\GitHub\cl\ws-reproj\private-space\output/mod_depth_spec_1.2.rds|t19511.3340528849s|ff476592d93e4953|83615|file|local|vector|||0.02||
+mod_depth_ver|stem|a24c99441489dafe|04ef124c582d2ca8|d4158f5a3fd20d48|1962884207|C:\Users\corra\Documents\GitHub\cl\ws-reproj\private-space\output/mod_depth_1.2.rds|t19511.333939116s|f8eee4b85dd50049|62232|file|local|vector|||0.02||
+penguins|stem|49e2a44b48751528|89d950535ceffc6c|209bbd672075a333|754414924||t19511.3339365318s|efaa185e2d9f48e0|1794|rds|local|vector|||0.69||
+penguins_raw|stem|3adc4e07f1da78d7|7625ba2c7845e8f9|8df5ccb0ea5678f3|-1924679954||t19511.3339281186s|09564e82e6ea2f1a|10401|rds|local|vector|||1.43||
+penguins_raw_file|stem|241dbcb57394b677|edb14051986cea83|a93795fb1d6af25d|66733141|C:\Users\corra\Documents\GitHub\cl\ws-reproj\private-space\data-raw\penguins.csv|t19492.8104448692s|61a4c77db8b8faa5|53098|file|local|vector|||0.62||
+penguins_ver|stem|9d06c6c6e845456b|31a586184f5dc225|70f78404d94ce56f|-1471287783|C:\Users\corra\Documents\GitHub\cl\ws-reproj\private-space\data/penguins_1.2.rds|t19511.3339386992s|d766ae7c92d4c6b5|25138|file|local|vector|||0.02||
+preproc|function|399d927a146278f0|||||||||||||||
+read_data_raw|function|64eca3722695d615|||||||||||||||
+report|stem|a86af68455c28e1c|9aef36e11a82dc7b|8d1022c6169ae661|-237041703|report.html*report.Rmd|t19511.3340449717s|8a1909d3fcdab5f7|674846|file|local|vector|||3.8||
+version|stem|d6a438c5cab4730f|6b988212dde82daa|ef46db3751d8e999|1757576755||t19511.3339111839s|a96c250e4b19e03e|54|rds|local|vector|||0||
+write_data|function|973c5039fee51e7c|||||||||||||||
+write_obj|function|ee60c31840b5e150|||||||||||||||
+write_output|function|47ba8ded70959d80|||||||||||||||
+write_plot|function|1e4c11aa19ebadc9|||||||||||||||
